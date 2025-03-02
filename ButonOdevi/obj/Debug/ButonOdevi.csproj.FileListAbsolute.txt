@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\ButonOdevi\ButonOdevi\bin\Debug\ButonOdevi.exe.config
+C:\Users\ASUS\source\repos\ButonOdevi\ButonOdevi\bin\Debug\ButonOdevi.exe
+C:\Users\ASUS\source\repos\ButonOdevi\ButonOdevi\bin\Debug\ButonOdevi.pdb
+C:\Users\ASUS\source\repos\ButonOdevi\ButonOdevi\obj\Debug\ButonOdevi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ButonOdevi\ButonOdevi\obj\Debug\ButonOdevi.Form1.resources
+C:\Users\ASUS\source\repos\ButonOdevi\ButonOdevi\obj\Debug\ButonOdevi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ButonOdevi\ButonOdevi\obj\Debug\ButonOdevi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ButonOdevi\ButonOdevi\obj\Debug\ButonOdevi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ButonOdevi\ButonOdevi\obj\Debug\ButonOdevi.exe
+C:\Users\ASUS\source\repos\ButonOdevi\ButonOdevi\obj\Debug\ButonOdevi.pdb
